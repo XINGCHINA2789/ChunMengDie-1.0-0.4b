@@ -2,6 +2,7 @@
 
 ## 关于作者
 
+https://huggingface.co/XingChina/ChunMengDie-1.0-0.4b
 一个热爱 AI 的八年级学生。欢迎交流学习。
 
 ## 模型简介
